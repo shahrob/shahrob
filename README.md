@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! I'm Muhammad Shahrob Abbas, a passionate **Senio
 
 - 🏢 **Current Position**: Senior Full Stack Developer at Meta Logix Tech (Since October 2020)
 - 💻 **Experience**: 5+ years in full-stack development
-- 🌍 **Location**: [Your Location]
+- 🌍 **Location**: Sahiwal Punjab Pakistan
 - 🎯 **Focus**: Building scalable web applications and mobile solutions
 - 📚 **Always Learning**: Currently exploring Docker and cloud technologies
 - 🎨 **Interests**: Tech content creation, coding challenges, and open-source contributions
@@ -80,7 +80,7 @@ Welcome to my GitHub portfolio! I'm Muhammad Shahrob Abbas, a passionate **Senio
 - **Tech Stack**: React Native, Node.js, MongoDB
 - **Features**: Cross-platform support, state-of-the-art UI design, meditation tracking
 - **Highlights**: Implemented offline mode, push notifications, and user progress analytics
-- [🔗 Live Demo](#) | [📱 App Store](#) | [🤖 Play Store](#)
+- [📱 App Store](#) | [🤖 Play Store](#)
 
 ### 🚚 LA Moving Star - Backend System
 **Fully functional backend for a moving company's web application**
@@ -102,17 +102,16 @@ Welcome to my GitHub portfolio! I'm Muhammad Shahrob Abbas, a passionate **Senio
 
 ### Senior Full Stack Developer - Meta Logix Tech
 **October 2020 - Present**
-- Led development of 15+ web applications serving 50k+ users
+- Main development of 15+ web applications serving 50k+ users
 - Architected scalable backend systems handling millions of requests
 - Mentored junior developers and established coding standards
 - Reduced application load times by 40% through optimization
-- Implemented CI/CD pipelines reducing deployment time by 60%
 
 ### Key Achievements:
-- 🏆 Employee of the Year 2023
+- 🏆 Next Level Employee of the Year 2025
 - 📈 Improved team productivity by 35%
-- 🚀 Successfully launched 8 major product releases
-- 👥 Led a team of 5 developers
+- 🚀 Successfully launched 5 major product releases
+- 👥 Led a team of 3 developers
 
 ---
 
@@ -123,26 +122,17 @@ Welcome to my GitHub portfolio! I'm Muhammad Shahrob Abbas, a passionate **Senio
 - **Backend Development**: Node.js, NestJS, Express.js, RESTful APIs
 - **Database Management**: MongoDB, PostgreSQL, MySQL, Redis
 - **DevOps**: Docker, AWS, CI/CD, Kubernetes
-- **Testing**: Jest, Cypress, Unit Testing, Integration Testing
+- **Testing**: Jest, Unit Testing, Integration Testing
 
 ### Soft Skills
 - 🎯 Project Management
-- 👥 Team Leadership
 - 📊 Problem Solving
 - 🗣️ Technical Communication
 - 📈 Performance Optimization
 
 ---
 
-## 🏆 Achievements & Certifications
 
-- 🥇 **AWS Certified Solutions Architect** (2023)
-- 🏅 **Meta Front-End Developer Certificate** (2022)
-- 🎖️ **Google Cloud Professional Developer** (2023)
-- 📜 **MongoDB Certified Developer** (2022)
-- 🏆 **Contributor of the Month** - Open Source Project (2023)
-
----
 
 ## 📝 Latest Blog Posts & Content
 
@@ -170,10 +160,7 @@ Welcome to my GitHub portfolio! I'm Muhammad Shahrob Abbas, a passionate **Senio
 ## 📈 2024 Goals
 
 - [ ] Contribute to 5 major open-source projects
-- [ ] Launch my own SaaS product
-- [ ] Reach 10k YouTube subscribers
-- [ ] Complete AWS Solutions Architect certification
-- [ ] Speak at 2 tech conferences
+- [ ] Launch my own product Website Application
 
 ---
 
@@ -198,11 +185,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 🎤 **Speaking**: Available for tech talks and workshops
 
 ### 📫 Get in Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [shahrobk@gmail.com](mailto:shahrobk@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shahrob-abbas](https://www.linkedin.com/in/shahrob-abbas/)
 - **YouTube**: [Coding Challenges Channel](https://www.youtube.com/@CodingChallenges-o6u)
 - **Portfolio**: [View My Work](https://portfolio-7fhiexxbi-shahrobs-projects.vercel.app/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Twitter**: [@yourusername](https://twitter.com/shahrob)
 
 ---
 
