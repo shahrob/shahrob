@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Muhammad+Shahrob+Abbas+-+Full+Stack+Developer)
+  ![Profile Banner](./ChatGPT-Image.png?text=Muhammad+Shahrob+Abbas+-+Full+Stack+Developer)
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahrob-abbas/)
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodingChallenges-o6u)
