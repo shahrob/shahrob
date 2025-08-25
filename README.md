@@ -6,9 +6,9 @@
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahrob-abbas/)
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodingChallenges-o6u)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-7fhiexxbi-shahrobs-projects.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-shahrobs-projects.vercel.app/)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=shahrob&color=brightgreen&style=for-the-badge)
   
 </div>
 
@@ -188,8 +188,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 - **Email**: [shahrobk@gmail.com](mailto:shahrobk@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shahrob-abbas](https://www.linkedin.com/in/shahrob-abbas/)
 - **YouTube**: [Coding Challenges Channel](https://www.youtube.com/@CodingChallenges-o6u)
-- **Portfolio**: [View My Work](https://portfolio-7fhiexxbi-shahrobs-projects.vercel.app/)
-- **Twitter**: [@yourusername](https://twitter.com/shahrob)
+- **Portfolio**: [View My Work](https://portfolio-shahrobs-projects.vercel.app/)
+- **Twitter**: [@Shahrob Abbas](https://twitter.com/shahrob)
 
 ---
 
